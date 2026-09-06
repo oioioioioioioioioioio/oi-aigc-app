@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "buildNumber": 3,
-  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.2/oi-aigc-android-v1.0.2.apk",
-  "sha256": "dd657b9c9c420967cf8c59abb21a00f02d1b1d226199a94f306e5b594e80cb54",
-  "fileName": "oi-aigc-android-v1.0.2.apk",
-  "releaseNotes": "新增在线更新与安装包完整性校验；我的页面增加联系 QQ；移除分享链接按钮；支持作品 App 内预览、播放与保存。",
+  "version": "1.0.3",
+  "buildNumber": 4,
+  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.3/oi-aigc-android-v1.0.3.apk",
+  "sha256": "48b45808429bbc869853afc521beb8f5cbb916ce6f50ec2e9e4494134eddadcb",
+  "fileName": "oi-aigc-android-v1.0.3.apk",
+  "releaseNotes": "修复退出登录首次报错后页面未刷新、需要重启 App 的问题；服务端会话失效或网络异常时，本地仍会立即退出；防止重复点击退出。",
   "sizeBytes": 56923504,
-  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.2",
-  "publishedAt": "2026-09-06T12:51:29.2407742Z"
+  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.3",
+  "publishedAt": "2026-09-06T14:46:53Z"
 }
