@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "buildNumber": 2,
+  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.1/oi-aigc-windows-v1.0.1-x64-setup.exe",
+  "sha256": "a83237306a38fd01b921afea74448a43f3ae1621d2fe29863ca91a0174ee7615",
+  "fileName": "oi-aigc-windows-v1.0.1-x64-setup.exe",
+  "releaseNotes": "默认窗口扩大至 1500×960，并根据屏幕可用区域自动缩放居中；新增 Windows EXE 安装包并启用在线更新。首次从免安装版升级后，请使用新的桌面或开始菜单快捷方式打开。",
+  "sizeBytes": 13217792,
+  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/windows-v1.0.1"
+}
