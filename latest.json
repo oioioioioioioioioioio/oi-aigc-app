@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4",
-  "buildNumber": 5,
-  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.4/oi-aigc-android-v1.0.4.apk",
-  "sha256": "0bfd6802058337cfbb416e6efe5927310a3ac919f1ad2e035895f60d31d17e28",
-  "fileName": "oi-aigc-android-v1.0.4.apk",
-  "releaseNotes": "首页升级为完整应用库，每页展示 12 个应用；移除大推荐卡和多余留白；保留分类、搜索和分页，支持清空搜索及翻页回到顶部；应用名称支持两行，适配窄屏与放大文字。",
-  "sizeBytes": 57209141,
-  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.4"
+  "version": "1.0.5",
+  "buildNumber": 6,
+  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.5/oi-aigc-android-v1.0.5.apk",
+  "sha256": "f639ad67debd906b2ce4cfe297fd41823088ab2d463238592f374554da6b2262",
+  "fileName": "oi-aigc-android-v1.0.5.apk",
+  "releaseNotes": "恢复完整首页欢迎区和本周推荐，保留每页 12 个应用、搜索、分类和分页；积分标注为预估积分；登录 Logo 居中完整显示；修复翻页后回到顶部的位置。",
+  "sizeBytes": 57274677,
+  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.5"
 }
