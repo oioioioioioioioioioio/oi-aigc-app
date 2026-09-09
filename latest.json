@@ -1,11 +1,10 @@
 {
-  "version": "1.0.3",
-  "buildNumber": 4,
-  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.3/oi-aigc-android-v1.0.3.apk",
-  "sha256": "48b45808429bbc869853afc521beb8f5cbb916ce6f50ec2e9e4494134eddadcb",
-  "fileName": "oi-aigc-android-v1.0.3.apk",
-  "releaseNotes": "修复退出登录首次报错后页面未刷新、需要重启 App 的问题；服务端会话失效或网络异常时，本地仍会立即退出；防止重复点击退出。",
-  "sizeBytes": 56923504,
-  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.3",
-  "publishedAt": "2026-09-06T14:46:53Z"
+  "version": "1.0.4",
+  "buildNumber": 5,
+  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.4/oi-aigc-android-v1.0.4.apk",
+  "sha256": "0bfd6802058337cfbb416e6efe5927310a3ac919f1ad2e035895f60d31d17e28",
+  "fileName": "oi-aigc-android-v1.0.4.apk",
+  "releaseNotes": "首页升级为完整应用库，每页展示 12 个应用；移除大推荐卡和多余留白；保留分类、搜索和分页，支持清空搜索及翻页回到顶部；应用名称支持两行，适配窄屏与放大文字。",
+  "sizeBytes": 57209141,
+  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.4"
 }
