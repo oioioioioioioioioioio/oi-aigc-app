@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
-  "buildNumber": 6,
-  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.5/oi-aigc-android-v1.0.5.apk",
-  "sha256": "f639ad67debd906b2ce4cfe297fd41823088ab2d463238592f374554da6b2262",
-  "fileName": "oi-aigc-android-v1.0.5.apk",
-  "releaseNotes": "恢复完整首页欢迎区和本周推荐，保留每页 12 个应用、搜索、分类和分页；积分标注为预估积分；登录 Logo 居中完整显示；修复翻页后回到顶部的位置。",
-  "sizeBytes": 57274677,
-  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.5"
+  "version": "1.0.6",
+  "buildNumber": 7,
+  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.6/oi-aigc-android-v1.0.6.apk",
+  "sha256": "cde24038464690e1aa9cc26c4f2aa517da85155da17d4ee4e4b57983d5c0c74e",
+  "fileName": "oi-aigc-android-v1.0.6.apk",
+  "releaseNotes": "修复切换应用后的连接中断、密钥轮换导致的 MAC 校验失败和公开作品参数选择；任务轮询回到前台自动恢复，避免生成请求重复提交。",
+  "sizeBytes": 57733465,
+  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.6"
 }
