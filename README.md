@@ -4,9 +4,9 @@
 
 ## Windows
 
-- [Windows v1.0.1 正式版](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/windows-v1.0.1)
-- [下载 Windows x64 EXE 安装包（推荐）](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.1/oi-aigc-windows-v1.0.1-x64-setup.exe)
-- [下载 Windows x64 免安装 ZIP](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.1/oi-aigc-windows-v1.0.1-x64.zip)
+- [Windows v1.0.8 正式版](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/windows-v1.0.8)
+- [下载 Windows x64 EXE 安装包（推荐）](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.8/oi-aigc-windows-v1.0.8-x64-setup.exe)
+- [下载 Windows x64 免安装 ZIP](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.8/oi-aigc-windows-v1.0.8-x64.zip)
 - 支持 Windows 10/11 x64。默认窗口为 1500 × 960，根据屏幕可用区域自动缩小、居中。
 - EXE 安装包提供桌面与开始菜单快捷方式和卸载入口。ZIP 需完整解压后运行 `oi_aigc.exe`，保留同目录的 `data` 文件夹及 DLL。
 - Windows 客户端通过独立的 `windows-latest.json` 检查更新，下载并校验安装包后打开安装程序。
