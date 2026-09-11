@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
-  "buildNumber": 8,
-  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.7/oi-aigc-windows-v1.0.7-x64-setup.exe",
-  "sha256": "d282964a35c769e7a117e3180e00408dc4584b1978a5877675a6ecafd0fa23b3",
-  "fileName": "oi-aigc-windows-v1.0.7-x64-setup.exe",
-  "releaseNotes": "统一 Windows 客户端暗色主题、登录 Logo 和紧凑下拉控件，移除测试版标识。",
+  "version": "1.0.8",
+  "buildNumber": 9,
+  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.8/oi-aigc-windows-v1.0.8-x64-setup.exe",
+  "sha256": "8b468cb7f8e8bb380127a04728e60259725449e9cd59a65b62d69b65e5653b59",
+  "fileName": "oi-aigc-windows-v1.0.8-x64-setup.exe",
+  "releaseNotes": "支持固定积分与倍率计费展示，统一桌面应用卡片价格标签，优化长金额、大字体排版和首页展示区高度。",
   "sizeBytes": 13258752,
-  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/windows-v1.0.7"
+  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/windows-v1.0.8"
 }
