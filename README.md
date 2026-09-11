@@ -14,7 +14,7 @@
 
 ## Android
 
-- [Android v1.0.6 正式版](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.6)
-- [下载 Android APK](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.6/oi-aigc-android-v1.0.6.apk)
+- [Android v1.0.7 正式版](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.7)
+- [下载 Android APK](https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.7/oi-aigc-android-v1.0.7.apk)
 - Releases 提供可安装 APK 和用于商店分发的 AAB 文件。
 - Android 客户端通过 `latest.json` 检查更新并校验下载包。Android 与 Windows 分别维护版本与更新清单。
