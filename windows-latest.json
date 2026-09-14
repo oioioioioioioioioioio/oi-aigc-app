@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
-  "buildNumber": 9,
-  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.8/oi-aigc-windows-v1.0.8-x64-setup.exe",
-  "sha256": "8b468cb7f8e8bb380127a04728e60259725449e9cd59a65b62d69b65e5653b59",
-  "fileName": "oi-aigc-windows-v1.0.8-x64-setup.exe",
-  "releaseNotes": "支持固定积分与倍率计费展示，统一桌面应用卡片价格标签，优化长金额、大字体排版和首页展示区高度。",
-  "sizeBytes": 13258752,
-  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/windows-v1.0.8"
+  "version": "1.0.9",
+  "buildNumber": 10,
+  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/windows-v1.0.9/oi-aigc-windows-v1.0.9-x64-setup.exe",
+  "sha256": "25ff8c97b57f5b2c821c7f38f00251fd3a442b42490b44123b366ebb2b848605",
+  "fileName": "oi-aigc-windows-v1.0.9-x64-setup.exe",
+  "releaseNotes": "新增应用收藏，小星星收藏后显示暖黄色；支持收藏筛选、搜索与分类联动，个人中心及应用详情增加入口，同一账号跨 Web、APP 与 Windows 同步。",
+  "sizeBytes": 13266944,
+  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/windows-v1.0.9"
 }
