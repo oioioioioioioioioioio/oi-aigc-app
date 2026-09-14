@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
-  "buildNumber": 9,
-  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.8/oi-aigc-android-v1.0.8.apk",
-  "sha256": "b731b5428eee972d3848f2cbd57534fc31a01e989de102708646a5764ac5aef0",
-  "fileName": "oi-aigc-android-v1.0.8.apk",
-  "releaseNotes": "支持固定积分与倍率计费展示，统一应用卡片和本周推荐的价格标签，优化窄屏、大字体与长金额排版。",
-  "sizeBytes": 57782617,
-  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.8"
+  "version": "1.0.9",
+  "buildNumber": 10,
+  "downloadUrl": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/download/v1.0.9/oi-aigc-android-v1.0.9.apk",
+  "sha256": "c4c6c9227d12053609dc917dcea79600fe8950ea56b26aac0996daa0437810f6",
+  "fileName": "oi-aigc-android-v1.0.9.apk",
+  "releaseNotes": "新增应用收藏，小星星收藏后显示暖黄色；支持收藏筛选、搜索与分类联动，个人中心及应用详情增加入口，同一账号跨 Web、APP 与 Windows 同步。",
+  "sizeBytes": 57881117,
+  "releasePage": "https://github.com/oioioioioioioioioioio/oi-aigc-app/releases/tag/v1.0.9"
 }
